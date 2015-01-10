@@ -1,0 +1,14 @@
+{
+    "name": "shin1x1/sample",
+    "authors": [
+        {
+            "name": "Masashi Shinbara",
+            "email": "shin1x1@gmail.com"
+        }
+    ],
+    "license": "MIT",
+    "autoload": {
+        "psr-4": { "Sample\\": "src/" }
+    },
+    "require": {}
+}
